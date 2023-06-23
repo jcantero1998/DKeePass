@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DKeePass JC</string>
+
+    <string name="username">username</string>
+    <string name="header_logo">Login</string>
+    <string name="password">Introduce el password</string>
+    <string name="txtpass">Acceso</string>
+    <string name="signin">ACEPTAR</string>
+    <string name="cancel">cancel</string>
+    <string name="txtDatos">Datos</string>
+
+    <string name="hintUsuario">Introduce el nombre</string>
+    <string name="hintContraseña">Introduce la contraseña</string>
+    <string name="hintUrl">Introduce Url</string>
+    <string name="hintComentarios">Introduce los comentarios</string>
+
+
+    <string name="textViewModificar">Modificar</string>
+
+    <string name="textViewUsuario">Usuario</string>
+    <string name="textViewContraseña">Contraseña</string>
+    <string name="textViewUrl">Url</string>
+    <string name="textViewComentarios">Comentarios</string>
+
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnModificar">Modificar</string>
+
+    <string name="textViewPassActual">Contraseña Actual</string>
+    <string name="textViewNuevaPass">Nueva Contraseña</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
